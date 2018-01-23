@@ -2,6 +2,7 @@ ABCDEFG
 HIJK
 LMNOP
 QRS
+WX
 TUV
 Now I know about ABC
 Next time don't sing with me
